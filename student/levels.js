@@ -93,7 +93,7 @@ const LEVELS = [
     // ----- YOUR LEVEL --------------------------------------------------
     // Rename it, then draw. This starter is just a floor, a start and a
     // goal, so it already works. Make it yours.
-    name: "Roundabout",
+    name: "Round-a-bout",
     map: `
 ==....###^^#############^^###...................
 ....o...........................................
